@@ -1,4 +1,4 @@
-# Autodesk AutoCAD Architecture 🏛️  
+# Autodesk AutoCAD Architecture   
 
 <div align="center">
 
