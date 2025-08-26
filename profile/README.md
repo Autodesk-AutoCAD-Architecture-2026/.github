@@ -28,7 +28,7 @@ With AutoCAD Architecture, you can:
 
 <div align="center">
 
-<img src="https://www.autodesk.com/content/dam/autodesk/www/products/autocad/fy24/toolsets/architecture/drawing-version-management-large-1914x1018-v1.jpg" alt="AutoCAD Architecture Screenshot" width="700"/>  
+<img src="https://www.autodesk.com/content/dam/autodesk/www/products/autocad/fy24/toolsets/architecture/architectural-renovation-large-1912x1038-v1.jpg" alt="AutoCAD Architecture Screenshot" width="700"/>  
 
 </div>
 
